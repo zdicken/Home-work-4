@@ -9,6 +9,7 @@ nav {
   top: 0;
   overflow: hidden;
   background-color: cadetblue;
+  margin-left:0;
 }
 nav a {
   padding-right: 20px;
